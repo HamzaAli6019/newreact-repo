@@ -12,6 +12,14 @@ function App() {
           My name Hamid Raza Ashiq Hussain 
 
           My name is Asad Iqbal
+
+          My name is Asad Iqbal
+
+          My name is waleed 
+            
+
+        My name is Haseeb Anjum
+        
         </p>
         <a
           className="App-link"
