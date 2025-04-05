@@ -8,6 +8,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+
+          My name Hamza Ali
+
+          My name is Waleed Anjum
         </p>
         <a
           className="App-link"
