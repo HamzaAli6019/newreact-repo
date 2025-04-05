@@ -9,9 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
 
-          My name Hamza Ali
+          My name Hamid Raza Ashiq Hussain 
 
-          My name is Waleed Anjum
+          My name is Asad Iqbal
         </p>
         <a
           className="App-link"
